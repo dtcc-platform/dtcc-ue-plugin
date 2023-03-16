@@ -9,8 +9,8 @@ visualization systems depending on the type of data that need to be visualized.
 The the streamline data can be visualized using either a Niagara Particle System or Procedural Mesh geometry while the
 volumetric data visualization is handled via a Niagara Particle System.
 
-![](images/streamlines.jpg)
+![](images/streamlines.png)
 Streamlines.
 
-![](images/volumetric.jpg)
+![](images/volumetric.png)
 Volumetric data.
