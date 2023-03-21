@@ -140,9 +140,9 @@ class StreamLinesData(LinesData):
                 texture_line_start += length + texture_lines_padding
             
         self.num_lines = total_frames
-        self.data_lines_per_row = total_frames / j
+        self.data_lines_per_row = total_frames / (j+1)
 
-        print( "Streamlines read. Total number of lines, points: ", j, total_points)
+        print( "Streamlines read. Total number of lines, points: ", (j+1), total_points)
 
         self.pos_mins = np.nanmin(self.imdata[:,:],axis=(0,1))
         self.pos_maxs = np.nanmax(self.imdata[:,:],axis=(0,1))
