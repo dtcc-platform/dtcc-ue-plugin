@@ -22,3 +22,8 @@ supported by Sweden’s Innovation Agency Vinnova under Grant No. 2019-421 00041
 ## License
 
 DTCC UE Plugin is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Community guidelines
+
+Comments, contributions, and questions are welcome. Please engage with
+us through Issues, Pull Requests, and Discussions on our GitHub page.
